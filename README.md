@@ -37,7 +37,7 @@ This monorep contains:
 
 ## Starter
 
-Check [Gatsbylius/gatsbylius-starter](https://github.com/Gatsbylius/gatsbylius-starter) to start a new gatby site with a Sylius backend.
+Check [Gatsbylius/gatsbylius-starter](https://github.com/Gatsbylius/gatsbylius-starter) to start a new gatsby site with a Sylius backend.
 
 ## Get help
 
